@@ -38,4 +38,3 @@ Description:
    - City Hotels could benefit from targeted customer retention strategies and improved service to reduce cancellations.
    - Identifying and addressing peak cancellation months with better policies or offers can mitigate losses.
 
-Would you like further analysis on specific trends or recommendations to reduce cancellations?
