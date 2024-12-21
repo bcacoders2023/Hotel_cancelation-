@@ -1,3 +1,4 @@
+<img src="https://github.com/bcacoders2023/Hotel_cancelation-/blob/main/Screenshot%202024-12-21%20125920.png">
 The provided image illustrates a dashboard related to hotel booking cancellations. Here's an expert analysis and conclusion:
 Description:
 1. Overview of Guest Types:
